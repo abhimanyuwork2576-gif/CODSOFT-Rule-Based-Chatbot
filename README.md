@@ -1,6 +1,6 @@
 # CODSOFT-Rule-Based-Chatbot
 CODSOFT Artificial Intelligence Internship Task.
-# CODSOFT Internship - Task 2
+# CODSOFT Internship - Task 
 
 ## Rule-Based Chatbot
 
